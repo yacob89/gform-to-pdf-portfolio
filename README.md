@@ -1,4 +1,4 @@
-<img width="1635" height="1852" alt="VkyFxlfzQJ" src="https://github.com/user-attachments/assets/e063b243-162d-43a6-ae4f-d3a804d5ce59" /># 🚀 Google Form-to-PDF Automation Engine
+# 🚀 Google Form-to-PDF Automation Engine
 
 ### Enterprise-Grade Google Apps Script & TypeScript Workflow
 
