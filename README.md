@@ -1,4 +1,4 @@
-# 🚀 Google Form-to-PDF Automation Engine
+<img width="1635" height="1852" alt="VkyFxlfzQJ" src="https://github.com/user-attachments/assets/e063b243-162d-43a6-ae4f-d3a804d5ce59" /># 🚀 Google Form-to-PDF Automation Engine
 
 ### Enterprise-Grade Google Apps Script & TypeScript Workflow
 
@@ -13,6 +13,19 @@
 ## 📖 The Story: Modernizing Document Generation in Google Workspace
 
 Every professional services firm, HR department, and educational institution relies on generating personalized documents at scale—contracts, certificates, invoices, proposals, and reports. Yet the typical workflow is painfully manual: copy-pasting client names, dates, and addresses into templates one by one, exporting to PDF, and filing them in the right folder. As volume grows, so do errors, inconsistency, and wasted hours.
+
+Create Google Form:
+<img width="3351" height="1967" alt="chrome_5eXvmamBAZ" src="https://github.com/user-attachments/assets/11a2e5f8-422a-49c6-982d-6276a5f8be9f" />
+
+See Form Response:
+<img width="3224" height="802" alt="chrome_pNybdbvJm2" src="https://github.com/user-attachments/assets/f4e806e3-3983-46ee-a7ed-92e943938ecf" />
+
+Create Document Templates with Placeholder:
+<img width="3328" height="1868" alt="chrome_wcy0xxenV8" src="https://github.com/user-attachments/assets/5f241748-ab80-4b5c-a0af-5f7254cd5fd8" />
+
+Automated PDF creation from responses and doc templates:
+<img width="1635" height="1852" alt="VkyFxlfzQJ" src="https://github.com/user-attachments/assets/b91e91b9-611e-4d62-9156-ef6fa6063a67" />
+
 
 **This project reimagines Google Workspace document automation as a modern, software engineering discipline.**
 
